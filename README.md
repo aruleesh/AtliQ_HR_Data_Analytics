@@ -7,6 +7,7 @@
 
 ## Conclusion
 To see the dashboard [AtliQ_HR_Data_Analytics](https://app.powerbi.com/groups/me/reports/416b7aa0-5281-4544-b7a1-5459e3ceb645/ReportSection?experience=power-bi)
+
 In Thursday the employees take more leave than the rest of the days of the working week with 90.42%
 
 In Friday most of the employees prefer to do Work From Home with 12.15%
