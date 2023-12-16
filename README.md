@@ -35,7 +35,7 @@ The HR department at AtliQ Hardwares is dedicated to understanding employee pres
 
 ## Conclusion
 
-   The provided Power BI dashboard [AtliQ_HR_Data_Analytics](https://app.powerbi.com/groups/me/reports/416b7aa0-5281-4544-b7a1-5459e3ceb645/ReportSection?experience=power-bi) offers valuable insights into employee presence patterns. The identified trends on Thursdays and Fridays, along with sick leave distributions, can serve as a foundation for targeted strategies to improve overall employee satisfaction and well-being.
+   The provided Power BI dashboard [AtliQ_HR_Data_Analytics](https://app.powerbi.com/view?r=eyJrIjoiNDMwYzE5OWEtNTY4ZS00ZmIzLTlkZDItNWFjNDZlOWVkYjdlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) offers valuable insights into employee presence patterns. The identified trends on Thursdays and Fridays, along with sick leave distributions, can serve as a foundation for targeted strategies to improve overall employee satisfaction and well-being.
 
 
 
